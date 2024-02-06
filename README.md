@@ -5,9 +5,9 @@ Dataset link -https://www.youtube.com/redirect?event=video_description&redir_tok
 Objective is to find the maximum order and revenue month ,the top state from where maximum revenue generated,gender and age group of the custome who placed most order
 
 #### step followed 
-Data cleaning 
-Data preprocessing
-pivot table creation
+Data cleaning, 
+Data preprocessing,
+pivot table creation,
 Dashboard building
 
 #### Analysis 
