@@ -1,1 +1,3 @@
 # Vrinda_store_sales_analysis
+This is the sales analysis project for Vrinda's store for 2022 
+Dataset link -https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbC03WTNMY1VxWElnd3ZUZ05PeHJSdE44eHRmZ3xBQ3Jtc0ttMTRQZzA3SGN4WnRDQjdiSEJpQ3A1cVVZY3A0dWxyWXpXV0ViTHB5WDAyTkp0LTVBX2gyNnU3NTMtZk9XUm4tSUtDSEtiQ29DM0pRWkZKQk5iUXUzLTJ4VjdocmpjVUM2a1doemRjY0dKRURSazdzSQ&q=https%3A%2F%2Fbit.ly%2F3X381ok&v=gTK5rNhWJyA
